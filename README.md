@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="https://tenor.com/byjVC.gif" alt="animated" />
+  <img src="https://i.imgur.com/H3dhKjL.gif" alt="animated" />
 </p>
 
 &nbsp;
 
-- 👨🏻‍💻 Small **programmer**
+- 👨🏻‍💻 Small **programmer** and **etchincal hacker**
 
 &nbsp;
 
