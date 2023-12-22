@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://www.artstation.com/artwork/v28EGE" alt="animated" />
+  <img src="https://tenor.com/byjVC.gif" alt="animated" />
 </p>
 
 &nbsp;
