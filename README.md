@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://pin.it/1FxCAtK" alt="animated" />
+  <img src="https://www.artstation.com/artwork/v28EGE" alt="animated" />
 </p>
 
 &nbsp;
