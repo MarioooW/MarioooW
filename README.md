@@ -1,16 +1,24 @@
-### Hi there 👋
+<p align="center">
+  <img src="https://pin.it/1FxCAtK" alt="animated" />
+</p>
 
-<!--
-**MarioooW/MarioooW** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+&nbsp;
 
-Here are some ideas to get you started:
+- 👨🏻‍💻 Small **programmer**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+&nbsp;
+
+- ⚡ my discord: mariooo.14
+
+&nbsp;
+
+- 🔥 My main programming language is: **Python, Js, Pawn**
+
+&nbsp;
+
+- ⭐️ I’m currently learning: **C++, Python, Js, Pawn**
+
+&nbsp;
+
+- 🕸 Programming languages to learn in the future: **PHP, JS**
+</p>
